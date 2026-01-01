@@ -16,6 +16,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em *
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guimaraes997&show_icons=true&theme=dracula)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes997&layout=compact&theme=dracula)
