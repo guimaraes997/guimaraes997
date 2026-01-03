@@ -17,3 +17,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em *
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+
+---
+###  Estatísticas de Visitas
+![Visualizações](https://komarev.com/ghpvc/?username=guimaraes997&color=blue&style=flat-square&label=VISITAS+AO+PERFIL)
