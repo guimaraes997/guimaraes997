@@ -26,5 +26,5 @@
 ---
 
 ### 📬 Vamos nos conectar?
-- **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/gabriel-s-guimaraes)
+- **LinkedIn:** https://www.linkedin.com/in/gabriel-s-guimaraes/
 - 
