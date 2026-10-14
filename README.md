@@ -1,23 +1,36 @@
-# Olá, eu sou o Gabriel Guimarães! 
+# Olá, eu sou o Gabriel Guimarães! 👋
 
-##  Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **DevOps** e **Automação**. Meu objetivo é utilizar o **Python** e tecnologias de nuvem para criar infraestruturas eficientes e processos automatizados.
+![DIO Campus Expert](https://img.shields.io/badge/DIO-Campus%20Expert%20T17-713BDB?style=for-the-badge)
+![ADS](https://img.shields.io/badge/Curso-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-007ACC?style=for-the-badge)
 
-*  Especializando em automação com **Python**.
-*  Aprendendo a containerizar aplicações com **Docker**.
-*  Explorando soluções de **Cloud Computing** na **AWS**.
-*  Focado em dominar o ciclo de vida do software e práticas de infraestrutura como código.
-
-*  ## Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
+ Graduando em Análise e Desenvolvimento de Sistemas | Apaixonado por DevOps, Cloud Computing e Automação com Python.
 
 ---
-###  Estatísticas de Visitas
-![Visualizações](https://komarev.com/ghpvc/?username=guimaraes997&color=blue&style=flat-square&label=VISITAS+AO+PERFIL)
+
+### 🚀 Sobre Mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+- 🏆 **DIO Campus Expert (Turma 17)** — Promovendo tecnologia, liderança e aprendizado contínuo.
+- 🔭 Foco atual de estudos: **DevOps (Docker, Linux, CI/CD), AWS, Python (FastAPI/Flask) e Cibersegurança**.
+- 💡 Interesses: Automação de processos, arquitetura de sistemas e infraestrutura.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+!<https://github-readme-stats.vercel.app/api?username=guimaraes997&show_icons=true&theme=radial>
+!<https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes997&layout=compact&theme=radial>
+
+
+
+### 📬 Vamos nos conectar?
+- **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- **E-mail:** [Seu E-mail](mailto:seu-email@dominio.com)
