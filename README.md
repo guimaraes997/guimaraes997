@@ -25,12 +25,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-!<https://github-readme-stats.vercel.app/api?username=guimaraes997&show_icons=true&theme=radial>
-!<https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes997&layout=compact&theme=radial>
-
-
-
 ### 📬 Vamos nos conectar?
-- **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- **E-mail:** [Seu E-mail](mailto:seu-email@dominio.com)
+- **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/gabriel-s-guimaraes)
+- 
